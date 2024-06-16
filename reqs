@@ -1,0 +1,13 @@
+price
+tps
+fees
+blocksize
+active_wallets                          https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount
+number_nodes/number_validators
+time_for_block
+
+btc
+eth
+sol -> https://solanacompass.com nakamaoto coefficient
+
+last year?
