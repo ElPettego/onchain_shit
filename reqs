@@ -6,7 +6,7 @@ active_wallets                          https://studio.glassnode.com/metrics?a=B
 number_nodes/number_validators
 time_for_block
 
-btc
+btc -> missing number_nodes/number_validators
 eth
 sol -> https://solanacompass.com nakamaoto coefficient
 
